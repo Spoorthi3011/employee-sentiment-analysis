@@ -170,9 +170,4 @@ See `requirements.txt`. Core packages:
 - `seaborn` ≥ 0.12
 - `jupyter` ≥ 1.0 (for notebook)
 
----
 
-## 📩 Submission
-
-Email a ZIP file to **jbirch@glynac.ai** with subject: `YourName_AI-project-submission`  
-Also message on Microsoft Teams to notify completion.
